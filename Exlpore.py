@@ -22,8 +22,8 @@ import random
 
 h=[9,7,11]
 d=[3,5,7]
-days= 10000
-m1=days//2
+days= 300
+m1=days//3
 def explore():
         happy=0
         for num in range(m1):
