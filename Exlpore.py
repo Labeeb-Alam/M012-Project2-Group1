@@ -5,7 +5,7 @@ d = [3,5,7]
 days = 300
 m1=days//3
 
-def explore():
+def exploreOnly():
         happy=0
         for num in range(m1):
                 happy = happy + random.normalvariate(h[0],d[0])
